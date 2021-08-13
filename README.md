@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @boundlessGalaxy.
-- 👀 I’m interested in Artificial Intelligence
+- 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Python, C#
 - 📫 Easy to find me here! anantbarot31@gmail.com
 - 🙏 I am fascinated and surrounded by INDIAN culture
