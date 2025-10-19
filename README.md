@@ -6,7 +6,7 @@
 - ✨ Desire to work at Google, Amazon and TCS
 - ✨ Will participate in Hackathon or Competitive programming
 - 🤹 Want to try Photography, Music editing
-- 🎓 SOON December2021
+- 🎓 December2021
 - ⏳ THIS IS ALL FOR NOW
 <!---
 boundlessGalaxy/boundlessGalaxy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
